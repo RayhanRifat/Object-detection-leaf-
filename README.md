@@ -1,2 +1,2 @@
-# Object-detection-leaf
-Classification of leafs
+# Python tasks
+
