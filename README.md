@@ -1,2 +1,2 @@
-# Object-detection-leaf-
+# Object-detection-leaf
 Classification of leafs
